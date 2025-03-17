@@ -123,14 +123,14 @@ This framework is built on three core principles:
 
 ## Coming Soon
 
-### Templates (Q3 2024)
+### Templates (Q2 2025)
 - Epic structures
 - Feature breakdowns
 - Milestone frameworks
 - Workflow patterns
 - Integration guides
 
-### Project Management (Q4 2024)
+### Project Management (Q2 2025)
 - Board setup guides
 - Feature tracking
 - Timeline planning
