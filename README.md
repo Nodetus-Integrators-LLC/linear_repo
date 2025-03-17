@@ -14,27 +14,29 @@ A comprehensive framework for managing software projects using Linear, structure
 │   │   ├── performance/
 │   │   ├── requirements/
 │   │   └── security/
-│   └── issue_type/       # Issue categorization
-│       ├── nfr/
-│       ├── bug/
-│       ├── debt/
-│       ├── spike/
-│       └── task/
-├── layers/               # Application architecture layers
-│   ├── infrastructure/
-│   ├── database/
-│   ├── persistence/
-│   ├── service/
-│   ├── business/
-│   └── presentation/
+│   ├── issue_type/       # Issue categorization
+│   │   ├── nfr/
+│   │   ├── bug/
+│   │   ├── debt/
+│   │   ├── spike/
+│   │   └── task/
+│   ├── layers/           # Application architecture layers
+│   │   ├── infrastructure/
+│   │   ├── database/
+│   │   ├── persistence/
+│   │   ├── service/
+│   │   ├── business/
+│   │   └── presentation/
+│   └── stages/           # Project lifecycle stages
+│       ├── discovery/
+│       ├── requirements/
+│       ├── design/
+│       ├── development/
+│       ├── qa/
+│       └── release/
 ├── milestones/          # Project checkpoints and narrative structure
-└── stages/              # Project lifecycle stages
-    ├── discovery/
-    ├── requirements/
-    ├── design/
-    ├── development/
-    ├── qa/
-    └── release/
+├── templates/           # [Coming Soon] Standardized project templates
+└── projects/           # [Coming Soon] Project management guides
 ```
 
 ## Future Additions (Coming Soon)
