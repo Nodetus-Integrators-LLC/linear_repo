@@ -157,10 +157,10 @@ We welcome contributions to expand and improve this framework. Areas of particul
 
 ## Future Roadmap
 
-- Q3 2024: Templates Directory Release
-- Q4 2024: Projects Directory Release
-- Q1 2025: Integration Patterns
-- Q2 2025: Advanced Workflows
+- Q2 2025: Templates Directory Release
+- Q2 2025: Projects Directory Release
+- Q3 2025: Integration Patterns
+- Q4 2025: Advanced Workflows
 
 Stay tuned for updates and new features that will enhance your project management capabilities in Linear.
 
